@@ -24,5 +24,4 @@ This was a fun project I built to learn how to create a GUI using `tkinter`, and
 
 ## Requirements
 
-- Python 3.x
-- `tkinter` (usually included with Python)
+- Python 3
