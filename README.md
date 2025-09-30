@@ -26,7 +26,3 @@ This was a fun project I built to learn how to create a GUI using `tkinter`, and
 
 - Python 3.x
 - `tkinter` (usually included with Python)
-
-## How to Run
-
-python disease_simulator.py
